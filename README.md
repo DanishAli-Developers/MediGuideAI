@@ -1,1 +1,1 @@
-https://mediguideai-bp9q2ukljxhyyrnetkvyri.streamlit.app/
+https://mediguideai-developers.streamlit.app/
